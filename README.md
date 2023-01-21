@@ -1,3 +1,3 @@
 # Android-Graphics
-Implement Android 13 Mediaplayback bar animation using android path and beizer curves.  
+ Android 13's wavy Mediaplayback bar animation using android path and beizer curves.  
 #Screenshot
